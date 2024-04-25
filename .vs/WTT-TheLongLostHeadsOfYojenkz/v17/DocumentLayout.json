@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Q:\\SPT_380\\SPT_Client_Mods\\WTT-TheLongLostHeadsOfYojenkz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3488EBF0-8BBB-4F40-AC4A-5BAC89FA306A}|VoicePatch\\WTT-TheLongLostHeadsOfYojenkz.csproj|q:\\spt_380\\spt_client_mods\\wtt-thelonglostheadsofyojenkz\\voicepatch\\wtt-thelonglostheadsofyojenkz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3488EBF0-8BBB-4F40-AC4A-5BAC89FA306A}|VoicePatch\\WTT-TheLongLostHeadsOfYojenkz.csproj|solutionrelative:voicepatch\\wtt-thelonglostheadsofyojenkz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3488EBF0-8BBB-4F40-AC4A-5BAC89FA306A}|VoicePatch\\WTT-TheLongLostHeadsOfYojenkz.csproj|q:\\spt_380\\spt_client_mods\\wtt-thelonglostheadsofyojenkz\\voicepatch\\yojenkheadsvoicepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3488EBF0-8BBB-4F40-AC4A-5BAC89FA306A}|VoicePatch\\WTT-TheLongLostHeadsOfYojenkz.csproj|solutionrelative:voicepatch\\yojenkheadsvoicepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Q:\\SPT_380\\SPT_Client_Mods\\WTT-UpInSmoke\\PunisherVoicePatch\\PunisherVoicePatch\\CheechAndChongVoicePatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Q:\\SPT_380\\SPT_Client_Mods\\WTT-UpInSmoke\\PunisherVoicePatch\\PunisherVoicePatch\\Plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Q:\\SPT_380\\SPT_Client_Mods\\WTT-UpInSmoke\\PunisherVoicePatch\\PunisherVoicePatch\\CheechAndChong.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Q:\\SPT_380\\SPT_Client_Mods\\WTT-UpInSmoke\\PunisherVoicePatch\\PunisherVoicePatch\\CheechAndChong.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WTT-TheLongLostHeadsOfYojenkz",
+              "DocumentMoniker": "Q:\\SPT_380\\SPT_Client_Mods\\WTT-TheLongLostHeadsOfYojenkz\\VoicePatch\\WTT-TheLongLostHeadsOfYojenkz.csproj",
+              "RelativeDocumentMoniker": "VoicePatch\\WTT-TheLongLostHeadsOfYojenkz.csproj",
+              "ToolTip": "Q:\\SPT_380\\SPT_Client_Mods\\WTT-TheLongLostHeadsOfYojenkz\\VoicePatch\\WTT-TheLongLostHeadsOfYojenkz.csproj",
+              "RelativeToolTip": "VoicePatch\\WTT-TheLongLostHeadsOfYojenkz.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-24T19:26:08.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YojenkHeadsVoicePatch.cs",
+              "DocumentMoniker": "Q:\\SPT_380\\SPT_Client_Mods\\WTT-TheLongLostHeadsOfYojenkz\\VoicePatch\\YojenkHeadsVoicePatch.cs",
+              "RelativeDocumentMoniker": "VoicePatch\\YojenkHeadsVoicePatch.cs",
+              "ToolTip": "Q:\\SPT_380\\SPT_Client_Mods\\WTT-TheLongLostHeadsOfYojenkz\\VoicePatch\\YojenkHeadsVoicePatch.cs",
+              "RelativeToolTip": "VoicePatch\\YojenkHeadsVoicePatch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T19:24:27.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Plugin.cs",
+              "DocumentMoniker": "Q:\\SPT_380\\SPT_Client_Mods\\WTT-UpInSmoke\\PunisherVoicePatch\\PunisherVoicePatch\\Plugin.cs",
+              "RelativeDocumentMoniker": "..\\WTT-UpInSmoke\\PunisherVoicePatch\\PunisherVoicePatch\\Plugin.cs",
+              "ToolTip": "Q:\\SPT_380\\SPT_Client_Mods\\WTT-UpInSmoke\\PunisherVoicePatch\\PunisherVoicePatch\\Plugin.cs",
+              "RelativeToolTip": "..\\WTT-UpInSmoke\\PunisherVoicePatch\\PunisherVoicePatch\\Plugin.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T19:13:15.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheechAndChong.csproj",
+              "DocumentMoniker": "Q:\\SPT_380\\SPT_Client_Mods\\WTT-UpInSmoke\\PunisherVoicePatch\\PunisherVoicePatch\\CheechAndChong.csproj",
+              "RelativeDocumentMoniker": "..\\WTT-UpInSmoke\\PunisherVoicePatch\\PunisherVoicePatch\\CheechAndChong.csproj",
+              "ToolTip": "Q:\\SPT_380\\SPT_Client_Mods\\WTT-UpInSmoke\\PunisherVoicePatch\\PunisherVoicePatch\\CheechAndChong.csproj",
+              "RelativeToolTip": "..\\WTT-UpInSmoke\\PunisherVoicePatch\\PunisherVoicePatch\\CheechAndChong.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T15:43:24.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheechAndChong.csproj",
+              "DocumentMoniker": "Q:\\SPT_380\\SPT_Client_Mods\\WTT-UpInSmoke\\PunisherVoicePatch\\PunisherVoicePatch\\CheechAndChong.csproj",
+              "RelativeDocumentMoniker": "..\\WTT-UpInSmoke\\PunisherVoicePatch\\PunisherVoicePatch\\CheechAndChong.csproj",
+              "ToolTip": "Q:\\SPT_380\\SPT_Client_Mods\\WTT-UpInSmoke\\PunisherVoicePatch\\PunisherVoicePatch\\CheechAndChong.csproj",
+              "RelativeToolTip": "..\\WTT-UpInSmoke\\PunisherVoicePatch\\PunisherVoicePatch\\CheechAndChong.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T15:39:27.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheechAndChongVoicePatch.cs",
+              "DocumentMoniker": "Q:\\SPT_380\\SPT_Client_Mods\\WTT-UpInSmoke\\PunisherVoicePatch\\PunisherVoicePatch\\CheechAndChongVoicePatch.cs",
+              "RelativeDocumentMoniker": "..\\WTT-UpInSmoke\\PunisherVoicePatch\\PunisherVoicePatch\\CheechAndChongVoicePatch.cs",
+              "ToolTip": "Q:\\SPT_380\\SPT_Client_Mods\\WTT-UpInSmoke\\PunisherVoicePatch\\PunisherVoicePatch\\CheechAndChongVoicePatch.cs",
+              "RelativeToolTip": "..\\WTT-UpInSmoke\\PunisherVoicePatch\\PunisherVoicePatch\\CheechAndChongVoicePatch.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:33:11.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
