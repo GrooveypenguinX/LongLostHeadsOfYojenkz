@@ -1,7 +1,7 @@
 {
     "name": "WTT - The Long Lost Heads of Yojenkz",
     "author": "GrooveypenguinX, Yojenkz",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "license": "NCSA",
     "main": "src/mod.js",
     "sptVersion": "~3.9",
